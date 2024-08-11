@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1595008759 source:c:\users\bento\desktop\ipt\1º ano-1º semestre\introdução à programação\jogo das damas\jogodasdamas\contcomer.c
+	<stdio.h>
+	<stdlib.h>
+	"Funcoes.h"
+
+1595008759 c:\users\bento\desktop\ipt\1º ano-1º semestre\introdução à programação\jogo das damas\jogodasdamas\funcoes.h
+
+1595008759 source:c:\users\bento\desktop\ipt\1º ano-1º semestre\introdução à programação\jogo das damas\jogodasdamas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Funcoes.h"
+
+1595008759 source:c:\users\bento\desktop\ipt\1º ano-1º semestre\introdução à programação\jogo das damas\jogodasdamas\tabuleiro.c
+	<stdio.h>
+	"Funcoes.h"
+
+1595008759 source:c:\users\bento\desktop\ipt\1º ano-1º semestre\introdução à programação\jogo das damas\jogodasdamas\vencedor.c
+	<stdio.h>
+	<stdlib.h>
+	"Funcoes.h"
+
+1595008759 source:c:\users\bento\desktop\ipt\1º ano-1º semestre\introdução à programação\jogo das damas\jogodasdamas\verifcome.c
+	<stdio.h>
+	<stdlib.h>
+	"Funcoes.h"
+
+1595008759 source:c:\users\bento\desktop\ipt\1º ano-1º semestre\introdução à programação\jogo das damas\jogodasdamas\verifdama.c
+	<stdio.h>
+	<stdlib.h>
+	"Funcoes.h"
+
+1595008759 source:c:\users\bento\desktop\ipt\1º ano-1º semestre\introdução à programação\jogo das damas\jogodasdamas\verificerro.movimento.c
+	<stdio.h>
+	<stdlib.h>
+	"Funcoes.h"
+
